@@ -6,8 +6,8 @@
 
 ## 업데이트 내역 및 다운로드
 
-#### 최신버전: [1.0.0](https://github.com/Aniana0/Saem_AI_RVC/releases/download/1.1.0/Saem_RVC_1.0.0.zip)
-* [1.0.0](https://github.com/Aniana0/Saem_AI_RVC/releases/download/1.1.0/Saem_RVC_1.0.0.zip) : 최초버전
+#### 최신버전: [1.0.0](https://github.com/Aniana0/Saem_AI_RVC/releases/download/1.0.0/Saem_RVC_1.0.0.zip)
+* [1.0.0](https://github.com/Aniana0/Saem_AI_RVC/releases/download/1.0.0/Saem_RVC_1.0.0.zip) : 최초버전
 
 ## 모델 정보(최신 버전 기준)
 
