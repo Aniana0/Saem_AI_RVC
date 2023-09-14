@@ -1,6 +1,6 @@
 # 샘(Sample) RVC용 모델
 음성 합성 소프트웨어 캐릭터 '[샘(Sample)](https://blog.naver.com/aniana00/222054517943)'의 Retrieval-based-Voice-Conversion(RVC)용 모델입니다.
-해당 모델은 [Retrieval-based-Voice-Conversion]([Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI))를 통해 제작되었습니다.
+해당 모델은 [Retrieval-based-Voice-Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)를 통해 제작되었습니다.
 
 #### ❗절대 RVC의 공식 샘플 모델이 아닙니다. 캐릭터 이름이 샘플(줄여서 샘)입니다.❗<br>❗My character name is Sample(Nickname: Saem). This is not an official sample model of RVC.❗
 
