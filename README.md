@@ -62,4 +62,4 @@ The following actions using the Sample's model and synthesized voice are prohibi
 
 ## 각종 출처
 #### Retrieval-based-Voice-Conversion
-링크: [https://github.com/prophesier/diff-svc](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+링크: [https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
