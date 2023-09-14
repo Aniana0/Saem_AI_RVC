@@ -46,18 +46,18 @@
 ## EULA(English)
 #### Permission to use
 * Users may use synthetic voices for non-commercial purposes.
-* When releasing synthetic voices, it must be stated that the Sample's model was used.
-* When disclosing other models trained using the Sample's model, it must be stated that the Sample's model was used.
+* When releasing synthetic voices, it must be stated that the Saem's model was used.
+* When disclosing other models trained using the Saem's model, it must be stated that the Saem's model was used.
 
 #### Prohibition
-The following actions using the Sample's model and synthesized voice are prohibited.
+The following actions using the Saem's model and synthesized voice are prohibited.
 * The act of producing media products harmful to youth
 * Acts that violate not only the rights of the producer but also the rights of third parties
 * Violation of public order
 * Use for political and religious purposes
 * Ethical and legally problematic acts or disclosure of synthesized voices on websites with such problems
-* Selling or redistributing the Sample's model, parts of the Sample's model, or modified Sample's models or parts of the Sample's model without the permission of the producer
-* Modifying or deleting the Sample's model copyright notice and this agreement
+* Selling or redistributing the Saem's model, parts of the Saem's model, or modified Saem's models or parts of the Saem's model without the permission of the producer
+* Modifying or deleting the Saem's model copyright notice and this agreement
 * Violation of permission to use from RVC
 
 ## 각종 출처
